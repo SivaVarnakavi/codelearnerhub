@@ -3,7 +3,3 @@
 [[edge_functions]]
 function = "abtest"
 path = "/test"
-
-
-[build]
-  base = ""
